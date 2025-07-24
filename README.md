@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rhushikesh-patil-780b3b2a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rhushikesh-patil-780b3b2a2" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/rhushikesh-patil-780b3b2a2](https://www.linkedin.com/in/rhushikesh-patil-630a95257)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rhushikesh-patil-780b3b2a2" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/rhushikeshpatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/rhushikeshpatil" height="30" width="40" /></a>
 </p>
 
